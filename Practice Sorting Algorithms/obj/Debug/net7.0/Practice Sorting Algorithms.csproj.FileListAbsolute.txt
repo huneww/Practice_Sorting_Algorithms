@@ -13,3 +13,18 @@ C:\Users\hunwi\Desktop\Practice Sorting Algorithms\Practice Sorting Algorithms\o
 C:\Users\hunwi\Desktop\Practice Sorting Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.pdb
 C:\Users\hunwi\Desktop\Practice Sorting Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.genruntimeconfig.cache
 C:\Users\hunwi\Desktop\Practice Sorting Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\ref\Practice Sorting Algorithms.dll
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\bin\Debug\net7.0\Practice Sorting Algorithms.exe
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\bin\Debug\net7.0\Practice Sorting Algorithms.deps.json
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\bin\Debug\net7.0\Practice Sorting Algorithms.runtimeconfig.json
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\bin\Debug\net7.0\Practice Sorting Algorithms.dll
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\bin\Debug\net7.0\Practice Sorting Algorithms.pdb
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.AssemblyInfo.cs
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.dll
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\refint\Practice Sorting Algorithms.dll
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.pdb
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\Practice Sorting Algorithms.genruntimeconfig.cache
+C:\Users\hunwi\Desktop\Practice_Sorting_Algorithms\Practice Sorting Algorithms\obj\Debug\net7.0\ref\Practice Sorting Algorithms.dll

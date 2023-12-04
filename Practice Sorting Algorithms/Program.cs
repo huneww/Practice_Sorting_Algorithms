@@ -12,17 +12,15 @@ namespace Practice_Sorting_Algorithms
             SortingAlgorithms.SortWay ascending = new SortingAlgorithms.SortWay(Ascending);
             SortingAlgorithms.SortWay descending = new SortingAlgorithms.SortWay(Descending);
 
-            BubbleSort bubble = new BubbleSort();
-            bubble.Sorting(arr);
-            bubble.PrintAll(arr);
+            MergeSort merge = new MergeSort();
+            merge.Sorting(arr, 0, arr.Length - 1);
+            merge.PrintAll(arr);
 
             ResetArray(arr);
 
-            // 왜 안나와 왜 안나와
-            bubble.Sorting(arr, descending);
-            bubble.PrintAll(arr);
+            merge.Sorting(arr, descending, 0, arr.Length - 1);
+            merge.PrintAll(arr);
 
-            ResetArray(arr);
         }
 
         static void ResetArray(int[] arr)

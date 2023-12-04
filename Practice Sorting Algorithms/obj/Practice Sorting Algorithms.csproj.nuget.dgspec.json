@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hunwi\\Desktop\\Practice Sorting Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj": {}
+    "C:\\Users\\hunwi\\Desktop\\Practice_Sorting_Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hunwi\\Desktop\\Practice Sorting Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj": {
+    "C:\\Users\\hunwi\\Desktop\\Practice_Sorting_Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hunwi\\Desktop\\Practice Sorting Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\hunwi\\Desktop\\Practice_Sorting_Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj",
         "projectName": "Practice Sorting Algorithms",
-        "projectPath": "C:\\Users\\hunwi\\Desktop\\Practice Sorting Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj",
+        "projectPath": "C:\\Users\\hunwi\\Desktop\\Practice_Sorting_Algorithms\\Practice Sorting Algorithms\\Practice Sorting Algorithms.csproj",
         "packagesPath": "C:\\Users\\hunwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hunwi\\Desktop\\Practice Sorting Algorithms\\Practice Sorting Algorithms\\obj\\",
+        "outputPath": "C:\\Users\\hunwi\\Desktop\\Practice_Sorting_Algorithms\\Practice Sorting Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
